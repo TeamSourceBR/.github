@@ -1,5 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sr-dazai&include_orgs=true&show_icons=true&theme=github_dark )](https://github.com/sr-dazai/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sr-dazai&include_orgs=true&layout=compact&theme=github_dark )](https://github.com/sr-dazai/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidMacalister&include_orgs=true&show_icons=true&theme=github_dark )](https://github.com/DavidMacalister/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMacalister&include_orgs=true&layout=compact&theme=github_dark )](https://github.com/DavidMacalister/github-readme-stats)
 
 ##
 
