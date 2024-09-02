@@ -15,7 +15,7 @@ Nossa missão é criar experiências únicas e impactantes no mundo dos jogos, c
 
 Utilizamos uma variedade de tecnologias e ferramentas para criar nossos projetos. Algumas das principais incluem:
 
-**Linguagens de Programação:**
+### Linguagens de Programação
 
 <img align="center" alt="TeamSouceBR-HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="TeamSourceBR-CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -23,6 +23,14 @@ Utilizamos uma variedade de tecnologias e ferramentas para criar nossos projetos
 <img align="center" alt="TeamSourceBR-Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="TeamSourceBR-Lua" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg">
 <img align="center" alt="TeamSourceBR-Haxe" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haxe/haxe-original.svg">
+
+### Ferramentas de Desenvolvimento
+
+<img align="center" alt="TeamSourceBR-Git" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+<img align="center" alt="TeamSourceBR-GitHub" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+<img align="center" alt="TeamSourceBR-Blender" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg">
+<img align="center" alt="TeamSourceBR-VScode" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+<img align="center" alt="TeamSourceBR-Photoshop" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
 
 ## EQUIPE
 
