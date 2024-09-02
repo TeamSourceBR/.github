@@ -1,22 +1,23 @@
+![source_br_team_nem_background (1)](https://github.com/user-attachments/assets/6b2b2384-0585-4bb8-9d7b-f365aacc70f1)
+
 <div align="center">
+  
+<h1 style="font-size: 2.5em; font-weight: bold;">BEM-VINDO AO REPOSITÓRIO OFICIAL DA SOURCE BR TEAM!</h1>
 
-  <h1 style="font-family: 'Arial', sans-serif;">Source BR Team</h1>
+  ## QUEM SOMOS
 
-<p>Bem-vindo ao repositório oficial da Source BR Team!</p>
+  A Source BR Team é uma equipe dedicada ao desenvolvimento e à comunidade de modding. Com uma paixão pela criação de conteúdo inovador e de qualidade, nos empenhamos em levar a comunidade de jogos a novos patamares.
 
-<h2>Quem Somos</h2>
+  ## NOSSA MISSÃO
 
-<p>A Source BR Team é uma equipe dedicada ao desenvolvimento e à comunidade de modding. Com uma paixão pela criação de conteúdo inovador e de qualidade, nos empenhamos em levar a comunidade de jogos a novos patamares.</p>
+  Nossa missão é criar experiências únicas e impactantes no mundo dos jogos, contribuindo para a comunidade global de modding e desenvolvimento de jogos.
 
-<h2>Nossa Missão</h2>
+  ## COLABORE CONOSCO
 
-<p>Nossa missão é criar experiências únicas e impactantes no mundo dos jogos, contribuindo para a comunidade global de modding e desenvolvimento de jogos.</p>
+  Estamos sempre abertos a novas ideias e colaborações. Se você tem interesse em contribuir, fique à vontade para entrar em contato conosco.
+</div>
 
-<h2>Colabore conosco</h2>
-
-<p>Estamos sempre abertos a novas ideias e colaborações. Se você tem interesse em contribuir, fique à vontade para entrar em contato conosco.</p>
-
-
+##
 
 <div>
    <a href="https://www.youtube.com/@SourceBRTeam" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
