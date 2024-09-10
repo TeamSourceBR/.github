@@ -27,9 +27,8 @@ Utilizamos uma variedade de tecnologias e ferramentas para criar nossos projetos
 ### Ferramentas de Desenvolvimento
 
 <img align="center" alt="TeamSourceBR-Git" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-<img align="center" alt="TeamSourceBR-GitHub" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
 <img align="center" alt="TeamSourceBR-Blender" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg">
-<img align="center" alt="TeamSourceBR-Hammer++" height="45" width="55" src="https://wiki.teamfortress.com/w/images/thumb/9/91/Hammereditor.png/250px-Hammereditor.png">
+<img align="center" alt="TeamSourceBR-Hammer++" height="45" width="47" src="https://cdn.discordapp.com/attachments/1274483884142366894/1283128755761578076/image.png?ex=66e1de46&is=66e08cc6&hm=d0d0b296d48ffc8d63d3957cd503bbca43d2fb6812c1fa033aeaa0d73899c352&">
 <img align="center" alt="TeamSourceBR-VScode" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 <img align="center" alt="TeamSourceBR-Photoshop" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
 
