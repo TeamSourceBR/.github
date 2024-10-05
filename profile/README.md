@@ -4,7 +4,7 @@
 
 ## QUEM SOMOS
 
-A Source BR Team é uma equipe dedicada ao desenvolvimento e à comunidade de modding. Com uma paixão pela criação de conteúdo inovador e de qualidade, nos empenhamos em levar a comunidade de jogos a novos patamares.
+A Source BR é um grupo dedicada ao desenvolvimento e à comunidade de modding. Com uma paixão pela criação de conteúdo inovador e de qualidade, nos empenhamos em levar a comunidade de jogos a novos patamares.
 
 ## NOSSA MISSÃO
 
