@@ -8,7 +8,7 @@
 <div align="center">
 
 <h2>Quem somos?</h2>
-<p>Somos uma organização dedicada ao desenvolvimento de mods e traduções relacionada a Source Engine e jogos Valve. Com uma paixão pela criação de conteúdo inovador e de qualidade, nos empenhamos em elevar a comunidade de jogos a novos patamares para a comunida BR.</p>
+<p>Somos uma organização dedicada ao desenvolvimento de mods e traduções relacionada a Source Engine e jogos Valve. Com uma paixão pela criação de conteúdo inovador e de qualidade, nos empenhamos em elevar a comunidade de jogos a novos patamares para a comunidade BR.</p>
 
 <h2>Tecnologias que utilizamos</h2>
 </div>
@@ -20,14 +20,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-
-<img src="https://media.discordapp.net/attachments/1296554303573463123/1296721163392913459/computer-illustration.png?ex=67135131&is=6711ffb1&hm=53c9c130040dd0a12ac4207834e183340349778481629e99f8fb5a2bdc07aaee&=&format=webp&quality=lossless&width=878&height=652" min-width="400px" max-width="400px" width="400px" align="right" alt="Logo Source BR">
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 
-
+<img src="https://media.discordapp.net/attachments/1296554303573463123/1296721163392913459/computer-illustration.png?ex=67135131&is=6711ffb1&hm=53c9c130040dd0a12ac4207834e183340349778481629e99f8fb5a2bdc07aaee&=&format=webp&quality=lossless&width=878&height=652" min-width="400px" max-width="400px" width="400px" align="right" alt="Logo Source BR">
 
 #### Pilha segundaria:
 
