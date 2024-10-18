@@ -1,46 +1,56 @@
-![source_br_team_nem_background (1)](https://github.com/user-attachments/assets/6b2b2384-0585-4bb8-9d7b-f365aacc70f1)
+<!DOCTYPE html>
+<h1 align="center">Bem vindo ao nosso perfil do Github</h1>
+
+![source_br_team_nem_background (1)](https://github.com/oficial-dazai/TeamSourceBR/blob/main/Profile/Source%20BR%20imagens/Logo%20e%20Background/source_br_alt1.png?raw=true)
+
+###
 
 <div align="center">
 
-## QUEM SOMOS
+<h2>Quem somos?</h2>
+<p>Somos uma organização dedicada ao desenvolvimento de mods e traduções relacionada a Source Engine e jogos Valve. Com uma paixão pela criação de conteúdo inovador e de qualidade, nos empenhamos em elevar a comunidade de jogos a novos patamares para a comunida BR.</p>
 
-A Source BR é um grupo dedicada ao desenvolvimento e à comunidade de modding. Com uma paixão pela criação de conteúdo inovador e de qualidade, nos empenhamos em levar a comunidade de jogos a novos patamares.
+<h2>Tecnologias que utilizamos</h2>
+</div>
 
-## NOSSA MISSÃO
+#### Pilha principal:
 
-Nossa missão é criar experiências únicas e impactantes no mundo dos jogos, contribuindo para a comunidade global de modding e desenvolvimento de jogos.
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+
+<img src="https://media.discordapp.net/attachments/1296554303573463123/1296721163392913459/computer-illustration.png?ex=67135131&is=6711ffb1&hm=53c9c130040dd0a12ac4207834e183340349778481629e99f8fb5a2bdc07aaee&=&format=webp&quality=lossless&width=878&height=652" min-width="400px" max-width="400px" width="400px" align="right" alt="Logo Source BR">
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 
 
-## TECNOLOGIAS E FERRAMENTAS
 
-Utilizamos uma variedade de tecnologias e ferramentas para criar nossos projetos. Algumas das principais incluem:
+#### Pilha segundaria:
 
-### Linguagens de Programação
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img align="center" alt="TeamSouceBR-HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="TeamSourceBR-CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="TeamSourceBR-Js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="TeamSourceBR-Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="TeamSourceBR-Lua" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg">
-<img align="center" alt="TeamSourceBR-Haxe" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haxe/haxe-original.svg">
+#### Designer:
 
-### Ferramentas de Desenvolvimento
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&nbsp;
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)&nbsp;
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)&nbsp;
 
-<img align="center" alt="TeamSourceBR-Git" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-<img align="center" alt="TeamSourceBR-Blender" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg">
-<img align="center" alt="TeamSourceBR-Hammer++" height="45" width="47" src="https://cdn.discordapp.com/attachments/1274483884142366894/1283128912435740672/image.png?ex=66f3aaac&is=66f2592c&hm=cd0acd33343a36ca70cdd73a3630dd3d79751165f72146df0bcb9509c68eb29e&">
-<img align="center" alt="TeamSourceBR-VScode" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-<img align="center" alt="TeamSourceBR-Photoshop" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
+#### Workstation Tools:
 
-## CONTATO E SUPORTE
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
 
-Para suporte técnico ou qualquer outra dúvida, você pode nos contatar através dos seguintes canais:
+&nbsp;
+
+<h2 align="">Contacts:</h2>
 
 <div>
    <a href="https://www.youtube.com/@SourceBRTeam" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/tVNv6SNZZT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-   <a href="https://www.moddb.com/company/source-br" target="_blank"><img src="https://cdn.discordapp.com/attachments/1274483884142366894/1279969898495213578/image.png?ex=66f40a1c&is=66f2b89c&hm=bbfd8f2c7b0d9a3a975da61f5149b571ed277e0a4eb90a82433120dab4709a71&" target="_blank"></a> 
+   <a href="https://discord.gg/tVNv6SNZZT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+   <a href="https://www.moddb.com/company/source-br" target="_blank"><img src="https://github.com/oficial-dazai/TeamSourceBR/blob/main/Profile/Source%20BR%20imagens/Moddb/image.png?raw=true" target="_blank"></a>
+
 </div>
-
-<hr>
-
