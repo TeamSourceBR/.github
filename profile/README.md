@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <h1 align="center">Bem vindo ao nosso perfil do Github</h1>
 
-![source_br_team_nem_background (1)](https://github.com/oficial-dazai/TeamSourceBR/blob/main/Profile/Source%20BR%20imagens/Logo%20e%20Background/source_br_alt1.png?raw=true)
+![source_br_team_nem_background (1)](https://github.com/TeamSourceBR/.github/blob/main/source_br_alt1.png?raw=true)
 
 ###
 
