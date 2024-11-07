@@ -49,6 +49,5 @@
 <div>
    <a href="https://www.youtube.com/@Source_BR" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
    <a href="https://discord.gg/tVNv6SNZZT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-   <a href="https://www.moddb.com/company/source-br" target="_blank"><img src="https://github.com/TeamSourceBR/.github/blob/main/Imagens/image.png?raw=true" target="_blank"></a>
-
+   <a href="https://www.moddb.com/company/source-br" target="_blank"><img src="https://github.com/TeamSourceBR/.github/blob/main/Imagens/MODDB.svg" target="_blank"></a>
 </div>
